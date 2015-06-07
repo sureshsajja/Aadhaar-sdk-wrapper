@@ -1,0 +1,15 @@
+{
+  "aadhaar-id": "REAL AADHAAR NUMBER",
+  "device-id": "My-PC",
+  "modality": "demo",
+  "certificate-type": "preprod",
+  "demographics": {
+    "name": {
+      "name-value": "NAME"
+    }
+  },
+  "location": {
+    "type": "pincode",
+    "pincode": "PINCODE"
+  }
+}
